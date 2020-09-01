@@ -67,4 +67,12 @@
 .icon-chevron-down:before {
   content: "\e92e";
 }
+
+.icon-arrow-left:before {
+  content: "\e910";
+}
+
+.icon-arrow-right:before {
+  content: "\e912";
+}
 /*# sourceMappingURL=global.css.map */
